@@ -1,1 +1,1 @@
-# web3-plays
+# Web3 Plays
